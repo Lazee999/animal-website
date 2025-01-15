@@ -16,6 +16,4 @@ Simply open the `index.html` file in your web browser.
 *   CSS
 *   JavaScript
 
-## Credits
 
-(If applicable)
